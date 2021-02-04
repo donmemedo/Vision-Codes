@@ -1,0 +1,1 @@
+2021-01-05 13:54:25.732834------> Average inference time : 0.03391484419504801   ,    all images's inference time : 0.6104671955108643 
